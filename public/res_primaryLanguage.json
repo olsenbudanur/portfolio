@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "👋 Hi",
+      "description": " My name is Olsen, and I am a Computer Science major at Davidson College, and an upcoming Software Engineer. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
+        "skills": "Familiar With",
         "experience": "Experience"
       }
     },
@@ -77,6 +77,30 @@
             "name": "C#"
           }
         ]
+      },
+      {
+        "title": "3D Object Viewer",
+        "startDate": "2015",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
       }
     ],
     "experience": [
@@ -100,18 +124,35 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Affirm",
+        "title": "Software Engineer Intern",
+        "years": "05.2022 - 08.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Infrastructure Team"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Terraform",
+          "Airflow",
+          "AWS Glue",
+          "Python",
+          "AWS S3",
+          "Spark",
+          "Buildkite"
+        ]
+      },
+      {
+        "company": "Search Technology",
+        "title": "Software Engineer CO-OP",
+        "years": "03.2021 - 08.2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Javascript",
+          "jQuery",
+          "C++",
+          "Jenkins",
+          "Chromium"
         ]
       }
     ]
