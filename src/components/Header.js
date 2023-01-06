@@ -105,7 +105,7 @@ class Header extends Component {
 								}
 								checkedIcon={
 									<span
-										className="iconify"
+										className="iconify iconifys"
 										data-icon="noto-v1:sun-with-face"
 										data-inline="false"
 										style={{
@@ -126,7 +126,7 @@ class Header extends Component {
 
 						<a
 							target="_blank"
-							href="https://docs.google.com/document/d/12zBFLAwzSviX2IhGvtC1LOWFG1YhV6UVYU_WAZjgnIk/edit?usp=sharing"
+							href="https://docs.google.com/document/d/1-wxAnpyD-HYyTqaCKZ-Vcjh7-ySazoGht04JZHwl-7M/edit?usp=sharing"
 						>
 							<Button
 								style={{
