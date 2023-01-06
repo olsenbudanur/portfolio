@@ -179,7 +179,7 @@ class Header extends Component {
 								className="row aligner"
 								href="google.com"
 							>
-								<h4>Academic Trranscript</h4>
+								<h4>Academic Transcript</h4>
 								<span
 									className="iconify iconifys"
 									data-icon="mdi:resume"
