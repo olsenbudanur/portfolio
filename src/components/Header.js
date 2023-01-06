@@ -171,14 +171,15 @@ class Header extends Component {
 								position: "relative",
 								bottom: "50px",
 								width: "220px",
-								marginTop: "-50px",
+								marginTop: "0px",
+								bottom: "100px",
 							}}
 						>
 							<div
 								className="row aligner"
 								href="google.com"
 							>
-								<h4>Academic Transcript</h4>
+								<h4>Academic Trranscript</h4>
 								<span
 									className="iconify iconifys"
 									data-icon="mdi:resume"
