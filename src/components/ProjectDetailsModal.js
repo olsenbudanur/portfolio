@@ -13,7 +13,6 @@ class ProjectDetailsModal extends Component {
 			var title = this.props.data.title;
 			var description = this.props.data.description;
 			var url = this.props.data.url;
-			console.log(video);
 			if (this.props.data.technologies) {
 				var tech = technologies.map((icons, i) => {
 					return (
