@@ -171,7 +171,7 @@ class Header extends Component {
 								position: "relative",
 								bottom: "50px",
 								width: "220px",
-								marginTop: "0px",
+								marginTop: "-50px",
 							}}
 						>
 							<div
