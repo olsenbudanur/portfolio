@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-frontend-dev-portfolio/static/css/main.b8ee6f34.chunk.css",
-    "main.js": "/react-frontend-dev-portfolio/static/js/main.0c734a95.chunk.js",
-    "main.js.map": "/react-frontend-dev-portfolio/static/js/main.0c734a95.chunk.js.map",
+    "main.js": "/react-frontend-dev-portfolio/static/js/main.d76008f1.chunk.js",
+    "main.js.map": "/react-frontend-dev-portfolio/static/js/main.d76008f1.chunk.js.map",
     "runtime-main.js": "/react-frontend-dev-portfolio/static/js/runtime-main.0af024f6.js",
     "runtime-main.js.map": "/react-frontend-dev-portfolio/static/js/runtime-main.0af024f6.js.map",
     "static/css/2.d64471e2.chunk.css": "/react-frontend-dev-portfolio/static/css/2.d64471e2.chunk.css",
-    "static/js/2.2082991e.chunk.js": "/react-frontend-dev-portfolio/static/js/2.2082991e.chunk.js",
-    "static/js/2.2082991e.chunk.js.map": "/react-frontend-dev-portfolio/static/js/2.2082991e.chunk.js.map",
+    "static/js/2.489db4b5.chunk.js": "/react-frontend-dev-portfolio/static/js/2.489db4b5.chunk.js",
+    "static/js/2.489db4b5.chunk.js.map": "/react-frontend-dev-portfolio/static/js/2.489db4b5.chunk.js.map",
     "index.html": "/react-frontend-dev-portfolio/index.html",
-    "precache-manifest.b1534f23cb51ef0eb2158c81858e3676.js": "/react-frontend-dev-portfolio/precache-manifest.b1534f23cb51ef0eb2158c81858e3676.js",
+    "precache-manifest.ae52025060d89e41fe7f8cfa8b7d2e7e.js": "/react-frontend-dev-portfolio/precache-manifest.ae52025060d89e41fe7f8cfa8b7d2e7e.js",
     "service-worker.js": "/react-frontend-dev-portfolio/service-worker.js",
     "static/css/2.d64471e2.chunk.css.map": "/react-frontend-dev-portfolio/static/css/2.d64471e2.chunk.css.map",
     "static/css/main.b8ee6f34.chunk.css.map": "/react-frontend-dev-portfolio/static/css/main.b8ee6f34.chunk.css.map",
-    "static/js/2.2082991e.chunk.js.LICENSE.txt": "/react-frontend-dev-portfolio/static/js/2.2082991e.chunk.js.LICENSE.txt",
+    "static/js/2.489db4b5.chunk.js.LICENSE.txt": "/react-frontend-dev-portfolio/static/js/2.489db4b5.chunk.js.LICENSE.txt",
     "static/media/affirm.png": "/react-frontend-dev-portfolio/static/media/affirm.5e2f2c28.png",
     "static/media/block.jpg": "/react-frontend-dev-portfolio/static/media/block.3a5c883d.jpg",
     "static/media/ccad.jpeg": "/react-frontend-dev-portfolio/static/media/ccad.6c1271c4.jpeg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.0af024f6.js",
     "static/css/2.d64471e2.chunk.css",
-    "static/js/2.2082991e.chunk.js",
+    "static/js/2.489db4b5.chunk.js",
     "static/css/main.b8ee6f34.chunk.css",
-    "static/js/main.0c734a95.chunk.js"
+    "static/js/main.d76008f1.chunk.js"
   ]
 }
