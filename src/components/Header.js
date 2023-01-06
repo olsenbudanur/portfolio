@@ -123,14 +123,13 @@ class Header extends Component {
 								id="icon-switch"
 							/>
 						</div>
+
 						<a
 							target="_blank"
 							href="https://docs.google.com/document/d/12zBFLAwzSviX2IhGvtC1LOWFG1YhV6UVYU_WAZjgnIk/edit?usp=sharing"
 						>
 							<Button
 								style={{
-									backgroundColor:
-										"#baaa80",
 									border: "none",
 									position: "relative",
 									bottom: "16px",
@@ -144,7 +143,7 @@ class Header extends Component {
 								>
 									<h4>Resume</h4>
 									<span
-										className="iconify"
+										className="iconify iconifys"
 										data-icon="mdi:resume"
 										data-inline="false"
 										style={{
@@ -162,6 +161,40 @@ class Header extends Component {
 							</Button>
 						</a>
 					</div>
+					<a
+						target="_blank"
+						href="https://docs.google.com/document/d/1-wxAnpyD-HYyTqaCKZ-Vcjh7-ySazoGht04JZHwl-7M/edit?usp=sharing"
+					>
+						<Button
+							style={{
+								border: "none",
+								position: "relative",
+								bottom: "50px",
+								width: "220px",
+								marginTop: "0px",
+							}}
+						>
+							<div
+								className="row aligner"
+								href="google.com"
+							>
+								<h4>Academic Transcript</h4>
+								<span
+									className="iconify iconifys"
+									data-icon="mdi:resume"
+									data-inline="false"
+									style={{
+										display: "block",
+										height: "100%",
+										fontSize: 25,
+										textAlign: "end",
+										marginLeft: "20px",
+										color: "#353239",
+									}}
+								></span>
+							</div>
+						</Button>
+					</a>
 				</div>
 			</header>
 		);
