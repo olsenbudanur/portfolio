@@ -32,30 +32,10 @@ class About extends Component {
 								>
 									<img
 										height="100%"
+										width="100%"
 										src={profilepic}
 										alt="Avatar placeholder"
 									/>
-									{/* <Icon
-										icon={angularIcon}
-										style={{
-											fontSize: "400%",
-											margin: "9% 5% 0 5%",
-										}}
-									/>
-									<Icon
-										icon={reactIcon}
-										style={{
-											fontSize: "400%",
-											margin: "9% 5% 0 5%",
-										}}
-									/>
-									<Icon
-										icon={vueIcon}
-										style={{
-											fontSize: "400%",
-											margin: "9% 5% 0 5%",
-										}}
-									/> */}
 								</span>
 							</div>
 						</div>
