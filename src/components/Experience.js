@@ -58,9 +58,6 @@ class Experience extends Component {
 							color: "#fff",
 							textAlign: "center",
 						}}
-						icon={
-							<i className="fab fa-angular experience-icon"></i>
-						}
 						key={i}
 					>
 						<a href={link} target="_blank">
