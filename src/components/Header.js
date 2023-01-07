@@ -105,7 +105,7 @@ class Header extends Component {
 								}
 								checkedIcon={
 									<span
-										className="iconify iconifys"
+										className="iconify"
 										data-icon="noto-v1:sun-with-face"
 										data-inline="false"
 										style={{
