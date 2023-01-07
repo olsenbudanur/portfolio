@@ -52,7 +52,7 @@ class Header extends Component {
 			<header
 				id="home"
 				style={{
-					height: window.innerHeight - 140,
+					height: 700,
 					display: "block",
 				}}
 			>
@@ -126,7 +126,7 @@ class Header extends Component {
 
 						<a
 							target="_blank"
-							href="https://docs.google.com/document/d/1-wxAnpyD-HYyTqaCKZ-Vcjh7-ySazoGht04JZHwl-7M/edit?usp=sharing"
+							href="https://docs.google.com/document/d/12zBFLAwzSviX2IhGvtC1LOWFG1YhV6UVYU_WAZjgnIk/edit?usp=sharing"
 						>
 							<Button
 								style={{
@@ -134,7 +134,7 @@ class Header extends Component {
 									position: "relative",
 									bottom: "16px",
 									width: "150px",
-									marginTop: "30px",
+									marginTop: "40px",
 								}}
 							>
 								<div
@@ -171,8 +171,7 @@ class Header extends Component {
 								position: "relative",
 								bottom: "50px",
 								width: "220px",
-								marginTop: "0px",
-								bottom: "100px",
+								marginTop: "-30px",
 							}}
 						>
 							<div
