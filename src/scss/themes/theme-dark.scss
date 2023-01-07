@@ -49,6 +49,24 @@ body[data-theme="dark"] {
       }
    }
 
+   header {
+      background: linear-gradient(-45deg, black, #494949, #7f7f7f);
+      background-size: 400% 400%;
+      animation: gradient 15s ease infinite;
+   }
+   
+   @keyframes gradient {
+      0% {
+         background-position: 0% 50%;
+      }
+      50% {
+         background-position: 100% 50%;
+      }
+      100% {
+         background-position: 0% 50%;
+      }
+   }
+
    #about {
       background-color: #7f7f7f;
       h1 span {
