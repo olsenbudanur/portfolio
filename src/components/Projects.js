@@ -9,6 +9,8 @@ import immi from "../assets/immi.jpg";
 import block from "../assets/block.jpg";
 import code from "../assets/code.jpg";
 import smart from "../assets/smart.jpg";
+import hoash from "../assets/HOASH.JPG";
+import sms from "../assets/sms.png";
 
 class Projects extends Component {
 	constructor(props) {
@@ -30,6 +32,8 @@ class Projects extends Component {
 			block,
 			code,
 			smart,
+			hoash,
+			sms
 		];
 		let detailsModalShow = (data) => {
 			this.setState({ detailsModalShow: true, deps: data });

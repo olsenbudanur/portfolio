@@ -88,6 +88,59 @@
             "name": "selenium"
           }
         ]
+      }
+      ,
+      {
+        "title": "SMSChatGPT",
+        "startDate": "2015",
+        "description": "SMSChatGPT is a website that allows you to purchase access to sms the ChatGPT bot through your phone for $9.99 a month.",
+        "images": [
+          10
+        ],
+        "url": "https://smschatgpt.com",
+        "video": "https://www.youtube.com/embed/OdtTHI9QbfE",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "firebase"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "express"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "mui"
+          },
+          {
+            "class": "",
+            "name": "Twilio"
+          },
+          {
+            "class": "",
+            "name": "Stripe"
+          }
+        ]
+      },
+      {
+        "title": "Hack @ Davidson",
+        "startDate": "2015",
+        "description": "This is the website I built for Hack @ Davidson. Hack@Davidson is the first student-run, non-profit hackathon at Davidson College organized by Competitive Coding at Davidson (C-CAD). We are excited to host Hack@Davidson in the Davidson area to connect hackers, mentors, and sponsors from all around the globe. In the span of 48 hours, the best and brightest students from the NC area will create, code, and collaborate to build the projects of their dreams. We want you to be a part of this incredible experience!",
+        "images": [
+          4
+        ],
+        "url": "https://hackatdavidson.com/",
+        "video": "https://www.youtube.com/embed/EV5p4kg7Q70",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "react"
+          }
+        ]
       },
       {
         "title": "Tutana AI",
@@ -114,22 +167,6 @@
           {
             "class": "devicon-express-original",
             "name": "express"
-          }
-        ]
-      },
-      {
-        "title": "Hack @ Davidson",
-        "startDate": "2015",
-        "description": "This is the website I built for Hack @ Davidson. Hack@Davidson is the first student-run, non-profit hackathon at Davidson College organized by Competitive Coding at Davidson (C-CAD). We are excited to host Hack@Davidson in the Davidson area to connect hackers, mentors, and sponsors from all around the globe. In the span of 48 hours, the best and brightest students from the NC area will create, code, and collaborate to build the projects of their dreams. We want you to be a part of this incredible experience!",
-        "images": [
-          4
-        ],
-        "url": "https://hackatdavidson.com/",
-        "video": "https://www.youtube.com/embed/EV5p4kg7Q70",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "react"
           }
         ]
       },
@@ -204,15 +241,44 @@
             "name": "solidity"
           }
         ]
+      },
+      {
+        "title": "HOASH",
+        "startDate": "2015",
+        "description": "HOAS is a python program run on a Raspberry Pi. The python program generates a random emotion for the user to express using the random python library. After that, the python program waits for a user to press a button, listening through the gpiozero library. Once the user presses a button, the python program takes a picture of the user using picamera2 and sends it off to the emotion detection API by cameralyze to be assessed using the requests library. After getting the emotion response from the API, the python program compares it to the emotion the user was supposed to express. If the user expresses the right emotion, then the python app uses the gpiozero library to light up a green LED light and give the user a point. Otherwise, the python app lights up the red LED light and doesn’t give the user a point.",
+        "images": [
+          9
+        ],
+        "url": "https://github.com/olsenbudanur/HOASH",
+        "video": "https://www.youtube.com/embed/di14fYZ_q10",
+        "technologies": [
+          {
+            "class": "devicon-raspberrypi-line",
+            "name": "Raspberry Pi"
+          }
+        ]
       }
+      
 
     ],
     "experience": [
       {
-        "company": "Competitive Coding at Davidson",
+        "company": "Aptos Labs",
+        "title": "Software Engineer Intern",
+        "years": "05.2023 - 08.2023",
+        "link": "https://aptoslabs.com/",
+        "logo": 4,
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Hack@Davidson (Competitive Coding at Davidson)",
         "title": "Founder & President",
         "years": "1.2021 - present",
-        "link": "https://www.instagram.com/ccadavidson/",
+        "link": "https://www.instagram.com/hackatdavidson_/",
         "logo": 0,
         "mainTech": [
           ""

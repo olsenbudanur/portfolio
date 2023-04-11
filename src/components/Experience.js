@@ -5,8 +5,9 @@ import {
 } from "react-vertical-timeline-component";
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
-import ccad from "../assets/ccad.jpeg";
+import ccad from "../assets/ccad3.png";
 import afrm from "../assets/affirm.png";
+import aptos from "../assets/aptos.png";
 import search from "../assets/searchtech.jpeg";
 import rocket from "../assets/rocketry.png";
 
@@ -21,7 +22,7 @@ class Experience extends Component {
 			) {
 				const technologies = work.technologies;
 				const mainTechnologies = work.mainTech;
-				const logos = [ccad, afrm, search, rocket];
+				const logos = [ccad, afrm, search, rocket, aptos];
 
 				const logo = logos[work.logo];
 
