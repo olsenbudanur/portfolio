@@ -258,6 +258,23 @@
           }
         ]
       }
+      ,
+      {
+        "title": "NerfPi",
+        "startDate": "2015",
+        "description": "NefPi is a python program run on a Raspberry Pi. The function of the NerfPi is to wait for a signal from a second Raspberry Pi with a motion sensor, and once the signal is given do the following: 1- Shoot the intruder with the Nerf Jolt 2- Take a picture of the intruder, and upload it to Imgur 3- Send the picture to my phone as an sms, alongside with an alert using Twilio. ",
+        "images": [
+          11
+        ],
+        "url": "https://github.com/olsenbudanur/nerf_pi_security",
+        "video": "https://www.youtube.com/embed/yhbOVKLq0LU",
+        "technologies": [
+          {
+            "class": "devicon-raspberrypi-line",
+            "name": "Raspberry Pi"
+          }
+        ]
+      }
       
 
     ],
