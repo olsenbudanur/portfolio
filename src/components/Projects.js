@@ -10,7 +10,9 @@ import block from "../assets/block.jpg";
 import code from "../assets/code.jpg";
 import smart from "../assets/smart.jpg";
 import hoash from "../assets/HOASH.JPG";
+import claim from "../assets/Cllaim.png";
 import sms from "../assets/sms.png";
+import nerf from "../assets/nerfpi.jpg";
 
 class Projects extends Component {
 	constructor(props) {
@@ -33,7 +35,9 @@ class Projects extends Component {
 			code,
 			smart,
 			hoash,
-			sms
+			sms,
+			nerf,
+			claim
 		];
 		let detailsModalShow = (data) => {
 			this.setState({ detailsModalShow: true, deps: data });

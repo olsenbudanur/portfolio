@@ -258,6 +258,40 @@
           }
         ]
       }
+      ,
+      {
+        "title": "NerfPi",
+        "startDate": "2015",
+        "description": "NefPi is a python program run on a Raspberry Pi. The function of the NerfPi is to wait for a signal from a second Raspberry Pi with a motion sensor, and once the signal is given do the following: 1- Shoot the intruder with the Nerf Jolt 2- Take a picture of the intruder, and upload it to Imgur 3- Send the picture to my phone as an sms, alongside with an alert using Twilio. ",
+        "images": [
+          11
+        ],
+        "url": "https://github.com/olsenbudanur/nerf_pi_security",
+        "video": "https://www.youtube.com/embed/yhbOVKLq0LU",
+        "technologies": [
+          {
+            "class": "devicon-raspberrypi-line",
+            "name": "Raspberry Pi"
+          }
+        ]
+      }
+      ,
+      {
+        "title": "CLL{AI}M Bot",
+        "startDate": "2015",
+        "description": " CLL{AI}M Bot, allows attorneys to gather prior consumer complaint cases that are relevant to their own cases using semantic search with the data we got from government websites + Wolfram Alpha. It also allows them to use a LLM Chatbot that has context of the said complaint cases to answer their case-specific questions that will assist them in evaluating potential claims and cases and generate additional business!",
+        "images": [
+          12
+        ],
+        "url": "https://github.com/olsenbudanur/LawXLLM_Stanford",
+        "video": "https://www.youtube.com/embed/Qb4VvKY4TBE",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      }
       
 
     ],
