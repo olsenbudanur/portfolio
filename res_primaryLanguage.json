@@ -275,6 +275,23 @@
           }
         ]
       }
+      ,
+      {
+        "title": "CLL{AI}M Bot",
+        "startDate": "2015",
+        "description": " CLL{AI}M Bot, allows attorneys to gather prior consumer complaint cases that are relevant to their own cases using semantic search with the data we got from government websites + Wolfram Alpha. It also allows them to use a LLM Chatbot that has context of the said complaint cases to answer their case-specific questions that will assist them in evaluating potential claims and cases and generate additional business!",
+        "images": [
+          12
+        ],
+        "url": "https://github.com/olsenbudanur/LawXLLM_Stanford",
+        "video": "https://www.youtube.com/embed/Qb4VvKY4TBE",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      }
       
 
     ],
