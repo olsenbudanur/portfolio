@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Hi, I'm Olsen!",
-      "titles": [ "Software Engineer", "Davidson College"],
+      "titles": [ "Software Engineer"],
       "social": [
         {
           "name": "github",

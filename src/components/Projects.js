@@ -13,6 +13,7 @@ import hoash from "../assets/HOASH.JPG";
 import claim from "../assets/Cllaim.png";
 import sms from "../assets/sms.png";
 import nerf from "../assets/nerfpi.jpg";
+import llmcontextbot from "../assets/llmcontextbot.png";
 
 class Projects extends Component {
 	constructor(props) {
@@ -37,7 +38,8 @@ class Projects extends Component {
 			hoash,
 			sms,
 			nerf,
-			claim
+			claim,
+			llmcontextbot
 		];
 		let detailsModalShow = (data) => {
 			this.setState({ detailsModalShow: true, deps: data });
